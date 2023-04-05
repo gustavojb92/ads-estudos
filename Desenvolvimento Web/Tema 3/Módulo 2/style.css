@@ -1,0 +1,29 @@
+.text-align-left {
+    text-align: left;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.text-align-justify {
+    text-align: justify;
+}
+
+
+.espacamento-linhas {
+    line-height: 1.5;
+    font-size: 12px;
+}
+
+.letter-spacing {
+    letter-spacing: 10px
+}
+
+.word-spacing {
+    word-spacing: 10px;
+}
